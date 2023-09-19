@@ -1,4 +1,4 @@
-# Script Documentation: Discord Bot for Role Management and Fun
+# Discord Bot for Role Management and Fun
 
 This Python script is designed to create a bot using the Discord API for role management and fun interactions. The bot can perform various actions, including displaying a list of available commands and emotes, managing roles, generating memes, and responding to reactions. Below is a detailed documentation of the script:
 
