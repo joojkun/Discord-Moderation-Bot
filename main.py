@@ -1,5 +1,5 @@
-import guilded
-import guilded.errors
+import discord
+import discord.errors
 import asyncio
 from dicionario_cargos_e_reacoes import *
 from comandos_e_descricoes import comandos_e_descricoes, emotes, lista_emote
@@ -14,7 +14,7 @@ footer_embeds = 'Yume-Bot; Bot Gerenciador de Roles'
 footer_embeds_img = 'https://i.ibb.co/QkjJFgW/download-Copia.png'
 usuario_mal = list()
 # Token
-client = guilded.Client()
+client = discord.Client()
 token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 
